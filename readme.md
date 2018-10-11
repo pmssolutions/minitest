@@ -19,12 +19,12 @@ Mini Test Requirement Environment:
 - Tokenizer PHP Extension
 - XML PHP Extension
 
-Database using Sqlite on database/database.sqlite
+Database using Sqlite put on directory database/database.sqlite
 
-Just clone this repo and then start development server
+To run Mini Test, just clone this repo and then start laravel development server
 
 ```
-$ php artisan
+$ php artisan serve
 ```
 
 ## License
