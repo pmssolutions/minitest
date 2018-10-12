@@ -16,7 +16,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: lightblue;
+                background-color: grey;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -125,6 +125,7 @@
                 text-align:center;
                 font-size:16px;
                 font-weight:bold;
+                color:brown;
             }
         </style>
     </head>
