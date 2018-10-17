@@ -131,7 +131,8 @@ class MiniTest extends Controller
             }
 
         }else{
-            $data = curl_error($curl);
+            // $data = curl_error($curl);
+            return redirect('/');
         }
 
         curl_close($curl);
